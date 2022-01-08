@@ -1,6 +1,6 @@
 # Recommender System for Books
 
-This project is a proof of concept realised in order to obtain the diploma of Machine Learning Engineer (Openclassrooms & Centrale Supelec).
+This project is a proof of concept realised in order to obtain the diploma of **Data Scientist/Machine Learning Engineer** (*Openclassrooms* & *Centrale Supelec*).
 
 The aim of this project is to used the recent advances in recommender system to books. 
 There are many applications that using recommender algorithms such as Netflix, Youtube or Spotify but book's recommender system is less common. 
