@@ -2,6 +2,7 @@ import spacy
 import pandas as pd
 import numpy as np
 import nltk
+nltk.download("stopwords")
 from nltk.tokenize.toktok import ToktokTokenizer
 import re
 from bs4 import BeautifulSoup
