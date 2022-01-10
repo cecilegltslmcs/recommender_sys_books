@@ -8,6 +8,6 @@ In order to realise this proof of concept, datasets coming from Goodreads API we
 The datasets were downloaded on this page : [Datasets from Kaggle](!https://www.kaggle.com/bahramjannesarr/goodreads-book-datasets-10m).
 
 The first part of this project was cleaning and exploration of the datasets. This exploration was made in two parts:
-- One part on Books' informations
-- The other part about Users Ratings' information. 
+- One part about tabular data (numerical and categorical data)
+- One part about textual data (description text of books)
 (This step is on WIP...)
