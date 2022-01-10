@@ -10,6 +10,3 @@ The datasets were downloaded on this page : [Datasets from Kaggle](!https://www.
 The first part of this project was cleaning and exploration of the datasets. This exploration was made in two parts:
 - One part about tabular data (numerical and categorical data)
 - One part about textual data (description text of books)
-
-![WordCloud](/home/cecile/Bureau/Projets_en_cours/P7_PoC_goodreads_dataset/Illustrations/wordcloud.png)
-*WordCloud obtain with the description of each book*
