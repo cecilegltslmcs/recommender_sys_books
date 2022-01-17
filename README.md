@@ -15,7 +15,7 @@ The first part of this project was cleaning and exploration of the datasets. Thi
 
 The second part of this project is about the modelisation. Recommender systems are multiples. Here, we decided to explorer four kinds of them:
 - Simple recommender as we can see on IMBD
-- User-based collaborative system
-- Content-based system
+- User-based collaborative system (with SVD and KNN algorithms)
+- Content-based system (with cosine similarity and transformers methods)
 - Hybrid System.
 For simple recommender and user-based collaborative system, the metric score is Root Mean Squared Error (RMSE). 
