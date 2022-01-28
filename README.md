@@ -4,7 +4,7 @@ This project is a proof of concept realised in order to obtain the diploma of **
 
 The purposes of this project are multiples. First, this project try to prove that recommender engine can be used to suggest new books to users. Second, in this project, two categories of recommender engine was explored: Collaborative Filtering Algorithms and Content-Based Algorithms. Finally, an approach using new discoveries in NLP was tried. For each methods, an evaluation of GHG Emissions was realised.
 
-Datasets used for this proof of concept can be downloaded on this page:  [Datasets from Kaggle](!https://www.kaggle.com/bahramjannesarr/goodreads-book-datasets-10m).
+Datasets used for this proof of concept can be downloaded on this page: ![Datasets from Kaggle](!https://www.kaggle.com/bahramjannesarr/goodreads-book-datasets-10m).
 
 It exists an other dataset, but GoodReads dataset is more recent. 
 
