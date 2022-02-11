@@ -40,3 +40,5 @@ Recommendation algorithms are a vast domain. In this proof, we explore two kinds
 ![GHG Emissions Details](https://github.com/Sylvariane/Recommender_System_Books/blob/934ecfe8cfd3f93e450aa8a628d5ca672069a7dc/Illustrations/Emissions_Details.png)
 *with 0: SVD, 1: NMF, 2: KNN, 3: SlopeOne, 4: Co-Clustering, 5: KNN Basic, 6: KNN Means, 7: KNN Z Score, 8: KNN tunning*
 
+
+**Ce projet a été soutenu et validé le 11 février 2022.**
